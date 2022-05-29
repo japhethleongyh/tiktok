@@ -2,7 +2,7 @@
 
 <!-- How to make the code work -->
 
-1. Open the folder in your IDE
+1. Open the folder in your IDE, make sure you are in the right directory
 2. Open terminal
 3. Type the following command: "npm start"
 
